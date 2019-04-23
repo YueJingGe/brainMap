@@ -7,5 +7,6 @@
   - CSS3
   - JavaScript
   - 框架
+    - react
 
-补充es6，补充react基础
+
