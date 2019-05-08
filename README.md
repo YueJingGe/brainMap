@@ -1,4 +1,5 @@
 # BrainMap
+
 记录知识体系的脑图
 
 - 前端知识体系
@@ -7,6 +8,5 @@
   - CSS3
   - JavaScript
   - 框架
-    - react
-
-
+  - react
+    - 新的生命周期
